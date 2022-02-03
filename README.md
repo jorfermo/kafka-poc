@@ -6,7 +6,7 @@ Launch kafka + zookeeper locally
 docker compose up
 ```
 
-Reading events from kafka topic `test`
+Reading events from kafka topic `test` on cli
 
 ```bash
 brew install kafka
